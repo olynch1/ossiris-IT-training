@@ -29,7 +29,7 @@ Tier 1 is the first line of IT support. Responsibilities include:
 
 | Ticket ID | User Issue | Troubleshooting | Resolution | Notes |
 |-----------|------------|-----------------|------------|-------|
-| TBD | - | - | - | - |
+| #001 | Cannot connect to Wi-Fi | Checked adapter, re-enabled, verified IP via ipconfig | Adapter was disabled; re-enabled it | Educated user on Wi-Fi toggle and adapter status |
 
 ---
 
