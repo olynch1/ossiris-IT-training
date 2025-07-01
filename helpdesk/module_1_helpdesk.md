@@ -30,6 +30,7 @@ Tier 1 is the first line of IT support. Responsibilities include:
 | Ticket ID | User Issue | Troubleshooting | Resolution | Notes |
 |-----------|------------|-----------------|------------|-------|
 | #001 | Cannot connect to Wi-Fi | Checked adapter, re-enabled, verified IP via ipconfig | Adapter was disabled; re-enabled it | Educated user on Wi-Fi toggle and adapter status |
+| #002 | Outlook crashes on launch | Opened in Safe Mode, disabled COM add-ins, tested launch | Add-in disabled; Outlook opened successfully | Educated user on plugin management |
 
 ---
 
